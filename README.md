@@ -59,7 +59,7 @@ To check your setup, run the interface locally with:
 python -m http.server 5000 --bind 127.0.0.1
  ```
 
- Then go to [http://localhost:5000](http://localhost:5000).
+ Then go to [http://host:5000](http://local5000).
 
 ## Deploy on GitHub Pages
 
